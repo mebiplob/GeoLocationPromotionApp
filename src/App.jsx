@@ -9,24 +9,29 @@ function App() {
   return (
     <>
       <div>
-        <a href="https://vite.dev" target="_blank">
+        {/* <a href="https://vite.dev" target="_blank">
           <img src={viteLogo} className="logo" alt="Vite logo" />
         </a>
         <a href="https://react.dev" target="_blank">
           <img src={reactLogo} className="logo react" alt="React logo" />
-        </a>
+        </a> */}
       </div>
-      <h1>Vite + React</h1>
+      <h1>GEOLOCATION PROMOTION APP FOR WEB</h1>
       <div className="card">
-        <button onClick={() => setCount((count) => count + 1)}>
+
+        <input type="text" placeholder='Type your location'/>
+        <br/>
+        <br/>
+        <button>Serach Offers</button>
+        {/* <button onClick={() => setCount((count) => count + 1)}>
           count is {count}
         </button>
         <p>
           Edit <code>src/App.jsx</code> and save to test HMR
-        </p>
+        </p> */}
       </div>
       <p className="read-the-docs">
-        Click on the Vite and React logos to learn more
+        By providing your location, we can offer <br/>personalized promotions and services.
       </p>
     </>
   )
