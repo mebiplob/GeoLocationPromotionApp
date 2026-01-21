@@ -1,6 +1,6 @@
-# React + Vite
+# GEOLOCATION PROMOTION App
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+This is an app for businesses to promote their offer to the passing user of the app. They will be able to get information about the store and the offer they are providing. It is gonna target users from the geolocation. 
 
 Currently, two official plugins are available:
 
