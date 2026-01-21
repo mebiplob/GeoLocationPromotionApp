@@ -2,15 +2,19 @@
 
 This is an app for businesses to promote their offer to the passing user of the app. They will be able to get information about the store and the offer they are providing. It is gonna target users from the geolocation. 
 
-Currently, two official plugins are available:
+Currently, It is on the product development phase:
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) (or [oxc](https://oxc.rs) when used in [rolldown-vite](https://vite.dev/guide/rolldown)) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+- I am useing React and GOLnag for building this app. 
+- There are two version, one for the web app and the other for the mobile app.
 
-## React Compiler
+## Stage
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+Currently creating the web version of the app. At this moment i am creating the basic fucntionality for the app. 
+1. Login/Register
+2. Location tracking
+3. Perfered topic notifications
+4. Layout
+5. Data Structuring
 
-## Expanding the ESLint configuration
+## Product research is going on.. At this moment i have basic idea of the product and the functionality it requires for it to be useable. 
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
